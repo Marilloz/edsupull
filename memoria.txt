@@ -1,0 +1,27 @@
+Primera practica individual de SD
+
+Realizada por Marcos Martin Sandeogracias
+
+Dificultades Encontradas:
+    -1: Programar en triqui (de manera remota), ha sido un poco dificil programar con triqui dada las opciones que ofrece.
+    Ya que hay que estar siempre conectado a la VPN, lo que baja tu ancho de banda ralentizando las conexiones del ordenador.
+    Además de que no tiene una interfaz gráfica muy desarrollada.
+    
+    -2: Uso de estructuras de datos nuevas.
+    Aunque estaban bien hechas e incluian muchas funciones útiles, tenían el problema de ser un poco dificiles de usar a priori.
+    Además los ejemplos no eran del todo claros.
+
+    -3: Conexion por petición.
+    En general había poca información sobre este tipo de conexión y la manera de probarla era complicada.
+
+Soluciones:
+    -1: La extesión ssh de Visual Studio que permite programar en triqui usando la interfaz de Visual Studio.
+
+    -2: Muchas pruebas y horas de entender las estructuras de datos.
+
+    -3: Varios correos al profesor hasta conseguir sacarlo
+
+Opiniones
+
+    -En general la práctica estaba bien, su dificultad era adecuada y el tiempo apara realizarla también era adecuado.
+    -Además agradecer al profe por todas las respuestas a los correos que fueron de grán utilidad.
